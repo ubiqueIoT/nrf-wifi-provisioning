@@ -1,4 +1,4 @@
-# nRF WiFi Provisioning via We Bluetooth
+# nRF WiFi Provisioning via Web Bluetooth
 
 This is a minimal example of how to provision an nRF7002 WiFi device using Web Bluetooth and React.
 
