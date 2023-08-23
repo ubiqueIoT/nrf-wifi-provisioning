@@ -1,8 +1,7 @@
-# React + Vite
+# nRF WiFi Provisioning via We Bluetooth
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a minimal example of how to provision an nRF7002 WiFi device using Web Bluetooth and React.
 
-Currently, two official plugins are available:
+To test this project, you can program a [nRF7002DK](https://www.nordicsemi.com/Products/Development-hardware/nRF7002-DK) with the [MQTT example](https://www.zephyrproject.org/implementing-mqtt-over-wi-fi-on-the-nrf7002-dev-kit/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Zephyr blog has a [good getting started guide.](https://www.zephyrproject.org/implementing-mqtt-over-wi-fi-on-the-nrf7002-dev-kit/)
